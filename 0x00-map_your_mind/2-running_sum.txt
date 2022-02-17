@@ -1,0 +1,8 @@
+Declare ingeger variable n
+set sum = 0
+   while ( n is greater than or equal to 0)
+   Read n
+        if ( n is greater than or equal to 0)
+                set sum = sum + n
+    end while
+    display sum

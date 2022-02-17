@@ -1,0 +1,5 @@
+Declare integer variable num1
+Declare integer variable num2
+Declare integer variable sum
+set sum = num1*num1 + num2*num2
+Display sum
